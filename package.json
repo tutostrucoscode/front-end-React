@@ -1,0 +1,19 @@
+{
+  "name": "react-curso",
+  "version": "1.0.0",
+  "description": "curso de react front-end",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tutostrucoscode/front-end-React.git"
+  },
+  "author": "Jose Pablo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tutostrucoscode/front-end-React/issues"
+  },
+  "homepage": "https://github.com/tutostrucoscode/front-end-React#readme"
+}
