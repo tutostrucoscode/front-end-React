@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/tutostrucoscode/front-end-React/issues"
   },
-  "homepage": "https://github.com/tutostrucoscode/front-end-React#readme"
+  "homepage": "https://github.com/tutostrucoscode/front-end-React#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
