@@ -20,5 +20,8 @@
   "homepage": "https://github.com/tutostrucoscode/front-end-React#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "react-router-dom": "^5.2.0"
   }
 }
